@@ -1,0 +1,4 @@
+img,output,timestamp
+.gradio\flagged\img\887b2633ccf64fc85f22\forest.jpg,"{""label"": ""Dog"", ""confidences"": [{""label"": ""Dog"", ""confidence"": 0.999576985836029}, {""label"": ""Cat"", ""confidence"": 0.00042298398329876363}]}",2025-01-21 16:10:21.131351
+.gradio\flagged\img\b8846178e89df7ca73bf\forest.jpg,"{""label"": ""Dog"", ""confidences"": [{""label"": ""Dog"", ""confidence"": 0.999576985836029}, {""label"": ""Cat"", ""confidence"": 0.00042298398329876363}]}",2025-01-21 16:10:24.810047
+.gradio\flagged\img\67a6644f609326692e85\png,"{""label"": ""Dog"", ""confidences"": [{""label"": ""Dog"", ""confidence"": 0.9943832159042358}, {""label"": ""Cat"", ""confidence"": 0.005616823676973581}]}",2025-01-21 19:24:57.713596
